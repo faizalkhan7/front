@@ -6,7 +6,7 @@ import threading
 from telegram import Bot, Update, InlineKeyboardButton, InlineKeyboardMarkup, ChatAction
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, CallbackContext, MessageHandler, Filters
 
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "8094196948:AAHsnG2Z3EmDHpKDlR7sENtRm9xdHddLpgc"
 AFFILIATE_LINK = "https://broker-qx.pro/sign-up/?lid=1427258"
 ADMIN_ID = 5978928248
 
